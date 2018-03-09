@@ -1,11 +1,30 @@
-# Cryptocurrency_Investment_Analysis_and_Modeling
+# **Cryptocurrency Investment Analysis and Modeling**
 
 
 This repository contains the entire analysis and modeling of cryptocurrency performance in the stock market, in the form of Jupyter notebooks.
 
+
+
 ![CryptocurrencyWordMap](https://user-images.githubusercontent.com/31974451/37195011-e684cb46-2325-11e8-994e-bf411f1c97fe.jpg)
 
-# How to Navigate this Notebook
+# **About**
+
+This is UC Davis BAX452 Machine Learning Autodesk Group Project.
+
+The objective of this project is **to predict 30-days prices of most popular cryptocurrencies** given their historical variations. To achieve this, several regression techniques are explored. In the end, **Gradient Boosting Regressor** yields to the best prediction result for Ripple, and **ExtraTrees Regressor** performs the best for the rest of cryptocurrencies (e.g., Bitcoin, Ethereum, Litecoin, etc.).
+
+
+Cryptocurrencies mentioned in this Notebook have the following abbreviation:
+- Bitcoin (BTC)
+- Ethereum (ETH)
+- Litecoin (LTC)
+- Bitcoin Cash (BCH)
+- Ripple (XRP)
+- Monero (XMR)
+- Zcash (ZEC)
+
+
+# **How to Navigate this Notebook**
 
 Here is the table of content for you to navigate:
 
@@ -44,18 +63,8 @@ Here is the table of content for you to navigate:
 
 [8. Reference](#8)
 
-# About
-In this Notebook, I am investigating in the most popular cryptocurrencies, the following abbreviation:
-- Bitcoin (BTC)
-- Ethereum (ETH)
-- Litecoin (LTC)
-- Bitcoin Cash (BCH)
-- Ripple (XRP)
-- Monero (XMR)
-- Zcash (ZEC)
 
-
-# Visualization Excerpts
+# **Visualization Excerpts**
 
 ### 1. Bitcoin Price Simulation (2017.1 - 2018.3)
 This notebook used plotly to visually show bitcoin stock price during the period from Jan. 2017 to Mar. 2018. This plot illustrates the moving average, volume of transaction, opening price, Bollinger Bands, as well as whether the price increases (blue) or decreases (grey).
