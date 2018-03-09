@@ -73,10 +73,10 @@ If the stocks of Bitcoin or Ethereum pick up drastically, it is highly likely th
 
 ![heatmap](https://user-images.githubusercontent.com/31974451/37195336-3f9ac86a-2327-11e8-8a67-09031834d063.png)
 
-**Investment Advice:** To be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversified their assets into stock market, mutual funds and bank savings.
+**Investment Advice:** The principal is that including negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return. Therefore, to be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversify their assets into stock market, mutual funds and bank savings.
 
 
-The principal is that including negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return.
+
 
 ### 3. 30-days Bitcoin Price Prediction
 
