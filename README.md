@@ -5,7 +5,7 @@ This repository contains the entire analysis and modeling of cryptocurrency perf
 
 ![CryptocurrencyWordMap](https://user-images.githubusercontent.com/31974451/37195011-e684cb46-2325-11e8-994e-bf411f1c97fe.jpg)
 
-## How to Navigate this Notebook
+# How to Navigate this Notebook
 
 Here is the table of content for you to navigate:
 
@@ -44,7 +44,7 @@ Here is the table of content for you to navigate:
 
 [8. Reference](#8)
 
-## About
+# About
 In this Notebook, I am investigating in the most popular cryptocurrencies, the following abbreviation:
 - Bitcoin (BTC)
 - Ethereum (ETH)
@@ -55,7 +55,7 @@ In this Notebook, I am investigating in the most popular cryptocurrencies, the f
 - Zcash (ZEC)
 
 
-## Some cool Visualizations
+# Visualization Excerpts
 
 ### 1. Bitcoin Price Simulation (2017.1 - 2018.3)
 This notebook used plotly to visually show bitcoin stock price during the period from Jan. 2017 to Mar. 2018. This plot illustrates the moving average, volume of transaction, opening price, Bollinger Bands, as well as whether the price increases (blue) or decreases (grey).
