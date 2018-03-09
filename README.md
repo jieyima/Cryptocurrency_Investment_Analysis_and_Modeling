@@ -58,7 +58,7 @@ In this Notebook, I am investigating in the most popular cryptocurrencies, the f
 ## Some cool Visualizations
 
 ### 1. Bitcoin Price Simulation (2017.1 - 2018.3)
-Using plotly to draw bitcoin stock price during the period from Jan 2017 to Mar. 2018. The plot shows the opening price, moving average, volume of transaction, Bollinger Bands, as well as whether the price increases (blue) or decreases (grey).
+This notebook used plotly to visually show bitcoin stock price during the period from Jan. 2017 to Mar. 2018. This plot illustrates the moving average, volume of transaction, opening price, Bollinger Bands, as well as whether the price increases (blue) or decreases (grey).
 
 ![plotly](https://user-images.githubusercontent.com/31974451/37195543-21878f06-2328-11e8-9d24-68d488b85e9d.png)
 
