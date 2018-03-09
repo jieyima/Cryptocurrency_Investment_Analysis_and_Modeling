@@ -73,16 +73,16 @@ This notebook used plotly to visually show bitcoin stock price during the period
 
 ### 2. Heatmap
 
-Below is a correlation heatmap between eight most popular cryptocurrencies. One of the interesting findings is that all of them have a **highly positive correlation coefficience** (≥0.75). Monero has the highest correlation coefficient of more than 0.85 with other cryptocurrencies, indicating all the cryptocurrencies  generally move in the same direction together along with the market.
+Below is a correlation heatmap between eight most popular cryptocurrencies. One of the interesting findings is that all of them have a **highly positive correlation coefficience** (≥0.75), indicating all the cryptocurrencies  generally move in the same direction together along with the market.
 
-If the stocks of Bitcoin or Ethereum pick up drastically, it is highly likely that Litcoin/Bitcoin Cash/Zcash will experience a similar boost as its fee-driven income picks up and positive earnings reports encourage investors.
+Monero has the highest correlation coefficient of more than 0.85 with other cryptocurrencies. If the stocks of Bitcoin/Ethereum/Litcoin/Zcash pick up drastically, it is most likely that Monero will experience a similar boost as its fee-driven income picks up and positive earnings reports encourage investors.
 
 [Source: How does correlation affect the stock market?|Investopedia](https://www.investopedia.com/ask/answers/021716/how-does-correlation-affect-stock-market.asp#ixzz59EdIHIh9)
 
 
 ![heatmap](https://user-images.githubusercontent.com/31974451/37195336-3f9ac86a-2327-11e8-8a67-09031834d063.png)
 
-**Investment Advice:** The principal is that including negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return. Therefore, to be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversify their assets into stock market, mutual funds and bank savings.
+**Investment Advice:** The principal is that **inclusion of negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return**. Therefore, to be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversify their assets into stock market, mutual funds and bank savings.
 
 
 
