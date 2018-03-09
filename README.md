@@ -64,15 +64,23 @@ This notebook used plotly to visually show bitcoin stock price during the period
 
 ### 2. Heatmap
 
-Below is a correlation heatmap among 8 cryptocurrencies. One of the interesting findings is that all of them have a high correlation (higher than 0.75), and Litcoin and Monero have the highest correlation with all other cryptocurrencies. This phenomenon indicates that if the stocks of Bitcoin, Ethereum pick up drastically, it is highly likely that Litcoin/Bitcoin Cash/Zcash will experience a similar boost as its fee-driven income picks up and positive earnings reports encourage investors.
+Below is a correlation heatmap between eight most popular cryptocurrencies. One of the interesting findings is that all of them have a **highly positive correlation coefficience** (≥0.75). Monero has the highest correlation coefficient of more than 0.85 with other cryptocurrencies, indicating all the cryptocurrencies  generally move in the same direction together along with the market.
+
+If the stocks of Bitcoin or Ethereum pick up drastically, it is highly likely that Litcoin/Bitcoin Cash/Zcash will experience a similar boost as its fee-driven income picks up and positive earnings reports encourage investors.
 
 [Source: How does correlation affect the stock market?|Investopedia](https://www.investopedia.com/ask/answers/021716/how-does-correlation-affect-stock-market.asp#ixzz59EdIHIh9)
 
 
-
 ![heatmap](https://user-images.githubusercontent.com/31974451/37195336-3f9ac86a-2327-11e8-8a67-09031834d063.png)
 
+** Investment Advice:** To be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversified their assets into stock market, mutual funds and bank savings.
 
+
+The principal is that including negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return.
 
 ### 3. 30-days Bitcoin Price Prediction
+
 ![bitcoin prediction](https://user-images.githubusercontent.com/31974451/37195307-20924fce-2327-11e8-9027-98f854448a93.png)
+
+** Investment Advice:**
+Our 30-days forecast of bitcion price begins from Feb 25 2018, during which the predicted price is still volatile. Downward trending follows a short-term increasing momentum. Investors need to be cautious with the drastic price fluctuation as the price has already gone very high to a point of nearly $1,9000. **A short-term put option** and **a long-term call option** could be the potential preference of investors.
