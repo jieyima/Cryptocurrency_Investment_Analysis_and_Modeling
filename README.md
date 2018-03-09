@@ -73,7 +73,7 @@ If the stocks of Bitcoin or Ethereum pick up drastically, it is highly likely th
 
 ![heatmap](https://user-images.githubusercontent.com/31974451/37195336-3f9ac86a-2327-11e8-8a67-09031834d063.png)
 
-** Investment Advice:** To be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversified their assets into stock market, mutual funds and bank savings.
+**Investment Advice:** To be able to build a diversified portfolio, investors are **not** advised to put all their money into cryptocurrencies market, rather they should diversified their assets into stock market, mutual funds and bank savings.
 
 
 The principal is that including negatively correlated assets in a portfolio allows individuals to reduce the overall risk while still allowing for a positive return.
@@ -82,5 +82,5 @@ The principal is that including negatively correlated assets in a portfolio allo
 
 ![bitcoin prediction](https://user-images.githubusercontent.com/31974451/37195307-20924fce-2327-11e8-9027-98f854448a93.png)
 
-** Investment Advice:**
+**Investment Advice:**
 Our 30-days forecast of bitcion price begins from Feb 25 2018, during which the predicted price is still volatile. Downward trending follows a short-term increasing momentum. Investors need to be cautious with the drastic price fluctuation as the price has already gone very high to a point of nearly $1,9000. **A short-term put option** and **a long-term call option** could be the potential preference of investors.
