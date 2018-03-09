@@ -5,13 +5,13 @@ This repository contains the entire analysis and modeling of cryptocurrency perf
 
 
 
-![CryptocurrencyWordMap](https://user-images.githubusercontent.com/31974451/37195011-e684cb46-2325-11e8-994e-bf411f1c97fe.jpg)
+![CryptocurrencyGeneral](https://user-images.githubusercontent.com/31974451/37227029-ab3a6044-2390-11e8-8728-ccfe6ab07434.png)
 
 # **About**
 
 This is UC Davis BAX452 Machine Learning Autodesk Group Project.
 
-The objective of this project is **to predict 30-days prices of most popular cryptocurrencies** given their historical variations. To achieve this, several regression techniques are explored. In the end, **Gradient Boosting Regressor** yields to the best prediction result for Ripple, and **ExtraTrees Regressor** performs the best for the rest of cryptocurrencies (e.g., Bitcoin, Ethereum, Litecoin, etc.).
+The objective of this project is **to predict 30-days price of the most popular cryptocurrencies** given their historical variations. To achieve this, several regression techniques are explored. In the end, **Gradient Boosting Regressor** yields to the best prediction result for Ripple, and **ExtraTrees Regressor** performs the best for the rest of cryptocurrencies (e.g., Bitcoin, Ethereum, Litecoin, etc.).
 
 
 Cryptocurrencies mentioned in this Notebook have the following abbreviation:
