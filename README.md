@@ -3,6 +3,7 @@
 
 This repository contains the entire analysis and modeling of cryptocurrency performance in the stock market, in the form of Jupyter notebooks.
 
+For those couldn't load Plotly properly, I encourage you to check the notebook via nbviewer: https://nbviewer.jupyter.org/github/jieyima/Cryptocurrency_Investment_Analysis_and_Modeling/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb
 
 
 ![CryptocurrencyGeneral](https://user-images.githubusercontent.com/31974451/37227029-ab3a6044-2390-11e8-8728-ccfe6ab07434.png)
